@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+        th {
+            text-align: left;
+           }
+        </style>
+    </head>
+    <body>
+        <h1>THE WORLD'S BEST FOOTBALLERS</h1>
+        <table style="width:80%">
+             <thead>
+                  <th>No.</th>
+                  <th>Name</th>
+                  <th>Club</th>
+                  <th>Nationality</th>
+             </thead>
+             <tbody>
+                  <tr>
+                     <td>1</td>
+                     <td>Lionel Messi</td>
+                     <td>Barcelona</td>
+                     <td>Argentina</td>
+                  </tr>
+                  <tr>
+                     <td>2</td>
+                     <td>Cristiano Ronaldo</td>
+                     <td>Real Madrid</td>
+                     <td>Portugal</td>
+                     </tr>
+                  <tr>
+                     <td>3</td>
+                     <td>Xavi</td>
+                     <td>Barcelona</td>
+                     <td>Spain</td>
+                  </tr>
+                  <tr>
+                     <td>4</td>
+                     <td>Andres Iniesta</td>
+                     <td>Barcelona</td>
+                     <td>Spain</td>
+                  </tr>
+                  <tr>
+                     <td>5</td>
+                     <td>Zlatan Ibrahimovic</td>
+                     <td>PSG</td>
+                     <td>Sweden</td>
+                  </tr>
+                  <tr>
+                     <td>6</td>
+                     <td>Radamel Falcao	</td>
+                     <td>Atletico Madrid</td>
+                     <td>Colombia</td>
+                  </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
